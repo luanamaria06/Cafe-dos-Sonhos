@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: #fff8f0;
+}
+
+h1 {
+  color: white;
+}
+
+.fundo-parcial {
+  background-color: #a97449;
+  padding: 20px;
+  width: 400px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+
+p {
+  color: #333;
+  font-size: 18px;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.botao {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 24px;
+  background-color: #a97449;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.botao:hover {
+  background-color: #8c5d34;
+}
